@@ -31,6 +31,4 @@ def find_combinations(numbers, target):
     return results
 
 def search_for_nearest_number(numbers, target):
-    target_num = int(target)
-    min(numbers, key=lambda x: abs(x - target_num))
-
+    "Wait for version 1.0"
